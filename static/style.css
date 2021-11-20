@@ -1,0 +1,18 @@
+.navbar {
+    background: #9ec557;
+    color: aliceblue;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+
+}
+img {
+    size-adjust: auto;
+    width: 300px;
+    height: 300px;
+    resize: auto
+}
+.why_we_rock {
+
+}
